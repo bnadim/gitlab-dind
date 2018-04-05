@@ -1,3 +1,3 @@
 # gitlab-dind
-Gitlab Docker in Dokcer
+Gitlab Docker in Docker
 
