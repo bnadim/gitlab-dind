@@ -1,4 +1,3 @@
-ARG DIND_VERSION
 FROM docker:18-dind
 
 RUN apk add --update \
