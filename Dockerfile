@@ -8,6 +8,7 @@ RUN apk add --update \
     ncurses \
     git \
     openssh-client \
+    zip \
   && rm -rf /var/cache/apk/*
 
 RUN pip install docker-compose
